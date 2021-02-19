@@ -45,6 +45,13 @@
         <activity android:name=".imageview.ImageScaleActivity">
         </activity>
         <activity android:name=".imageview.ImageViewActivity" />
+
+        <activity
+            android:name=".ninepng.NinePngActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+
+        </activity>
     </application>
 
 </manifest>
