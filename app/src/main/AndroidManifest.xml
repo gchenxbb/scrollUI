@@ -40,6 +40,11 @@
 
 
         </activity>
+
+
+        <activity android:name=".imageview.ImageScaleActivity">
+        </activity>
+        <activity android:name=".imageview.ImageViewActivity" />
     </application>
 
 </manifest>
